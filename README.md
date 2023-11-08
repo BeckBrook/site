@@ -1,3 +1,4 @@
 # Site Portfolio 2023
 
-Site pour présenter ce que je fais quand on me laise un crayon et du papier sans surveillance (dangerux)
+dispo à cette adresse (encore en travaux) : https://beckbrook.github.io/site/
+Site pour présenter mes activités et projet de comics, dessin, graphisme aux curieux interéssés
